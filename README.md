@@ -7,3 +7,5 @@ Enter: my DIY infographics. I hope they're as useful to you as they are to me!
 ![alt text](https://github.com/EmilyMabie/ProgrammingInfographics/blob/main/DjangoProjectInfoGraphic-1%202.png)
 
 ![alt text](https://github.com/EmilyMabie/ProgrammingInfographics/blob/main/GET%20POST%20request%20Forms%20Django%20Infographic-page-001.jpeg)
+
+![alt text](https://github.com/EmilyMabie/ProgrammingInfographics/blob/main/Terminal%20Commands%20to%20Know.jpeg)
