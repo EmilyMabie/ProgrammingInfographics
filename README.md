@@ -14,4 +14,6 @@ Enter: my DIY infographics. I hope they're as useful to you as they are to me!
 
 ![alt text](https://github.com/EmilyMabie/ProgrammingInfographics/blob/main/One%20to%20Many%20vs%20Many%20to%20Many%20Relationship%20Infographic.png)
 
+![alt text](https://github.com/EmilyMabie/ProgrammingInfographics/blob/main/Django%20Sessions%20Infographic.png)
+
 
