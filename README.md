@@ -16,4 +16,4 @@ Enter: my DIY infographics. I hope they're as useful to you as they are to me!
 
 ![alt text](https://github.com/EmilyMabie/ProgrammingInfographics/blob/main/Django%20Sessions%20Infographic.png)
 
-
+![alt text](https://github.com/EmilyMabie/ProgrammingInfographics/blob/main/CRUD%26RESTapi.png)
