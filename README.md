@@ -18,4 +18,4 @@ Enter: my DIY infographics. I hope they're as useful to you as they are to me!
 
 ![alt text](https://github.com/EmilyMabie/ProgrammingInfographics/blob/main/CRUD%26RESTapi.png)
 
-![alt text](https://github.com/EmilyMabie/ProgrammingInfographics/blob/main/Display%20Property%20(BlockInlineBlockInline)%20CSS.png)
+![alt text](https://github.com/EmilyMabie/ProgrammingInfographics/blob/main/Display_Property(BlockInlineBlockInline)CSS.png)
